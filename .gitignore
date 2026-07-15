@@ -5,7 +5,7 @@ __pycache__/
 data/*.json
 !data/ejemplo_selecciones.json
 !data/fifa_ranking.json
-assets/*.png
+/*.png
 .vscode/
 .DS_Store
 .pytest_cache/
